@@ -1,51 +1,60 @@
-<H1 align="center">Olá! Tudo bem? Prazer, meu nome é Jhonatan</>
+<H1 align="center">Olá! Tudo bem? Prazer, meu nome é Jhonatan</H1>
 
-Sou formado em administração de empresas pela FECAP. Tenho experiência como auditor externo e sócio gerindo uma imobiliária, no momento resido em Avaré-SP.
+<p>Sou formado em administração de empresas pela FECAP. Tenho experiência como auditor externo e sócio gerindo uma imobiliária, no momento resido em Avaré-SP.</p>
 
-Após 10 anos de muito trabalho, decidi realizar a transição de carreira e trabalhar com o desenvolvimento de software e para isso estou contanto com a Trybe nessa jornada.
+<p>Após 10 anos de muito trabalho, decidi realizar a transição de carreira e trabalhar com o desenvolvimento de software e para isso estou contanto com a Trybe nessa jornada.</p>
 
-Você pode acessar meu site <a href="https://jiarguello.github.io" target="_blank">aqui</a> e os projetos nesse <a href="https://jiarguello.github.io/projects.html" target="_blank">link</a>.
+<p>Você pode acessar meu site <a href="https://jiarguello.github.io" target="_blank">aqui</a> e os projetos nesse <a href="https://jiarguello.github.io/projects.html" target="_blank">link</a>.</p>
 
+<p>Recentemente encerrei o módulo de fundamentos do curso onde, por meio de projetos e exercícios, aprendemos os seguintes temas:</p>
 
-Recentemente encerrei o módulo de fundamentos do curso onde aprendemos e desenvolvemos projetos e exercícios envolvendo os seguintes temas:
 <ul>
-  <li>HTML5</>
-  <li>CSS</>
-  <li>JavaScript ES6</>
-  <li>FrameWorks - BootStrap e Bulma</>
-  <li>Integração com API</>
-  <li>Jest</>
-</>
+  <li>Git e Github</li>
+  <li>HTML5</li>
+  <li>CSS</li>
+  <li>JavaScript ES6</li>
+  <li>FrameWorks - BootStrap e Bulma</li>
+  <li>Integração com API</li>
+  <li>Jest</li>
+</ul>
 
-Atualmente estou no módulo de front-end, baseado 
+<p>Atualmente estou no módulo de front-end que tem foco em React, ao decorrer deste módulo verei:</p>
 
-
-- 🔭 I’m currently working on ...
-- 🌱 Atualmente estou aprendendo sobre React 
 <ul>
-  <li>React</>
-  <li>Testes automatizados com React Testing Library</>
-  <li>Metodologias ágeis</>
-  <li>Redux</>
-  <li>Context API</>
-  <li>React Hooks</>
-</>
+  <li>React</li>
+  <li>Testes automatizados com React Testing Library</li>
+  <li>Metodologias ágeis</li>
+  <li>Redux</li>
+  <li>Context API</li>
+  <li>React Hooks</li>
+</ul>
 
 
-<a href="https://www.linkedin.com/in/jhonatan-arguello/">
-  <img href="https://www.linkedin.com/in/jhonatan-arguello/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:jhonatan.arguello@gmail.com?subject=Olá!">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+Meus interesses pessoais:
+
+- <b>Estudar:</b> Periodicamente escolho um assunto que me interessa e costumo me aprofundar bastante, o assunto da vez é investimentos no exterior.
+- <b>Otaku e Nerd:</b> Um pouco longe dos meus velhos tempos rs, mas ainda acompanho alguns mangás e histórias da cultura nerd.
+- <b>Viajar de Moto:</b> Tenho como grande paixão as motos custom, gosto de estudar sobre sua mecânica e principalmente pegar estrada!
+- <b>Ações Sociais:</b> Ter a oportunidade de impactar positivamente a vida das pessoas é algo que me faz bem. No momento participo de um projeto que arrecada brinquedos e doces para o dia das crianças e Natal.
 
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+Gosto muito de conversar e trocar experiências, caso queira falar comigo pode me contatar pelo meu Linkedin ou por e-mail nos botões abaixo:
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhonatan-arguello/">
+    <img href="https://www.linkedin.com/in/jhonatan-arguello/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jhonatan.arguello@gmail.com?subject=Olá!">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<p>Esse é o meu resumo de utilização do Github:</p>
 
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiarguello&show_icons=true&theme=gotham)
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+<p>Algumas linguagens e ferramentas que eu utilizo:</p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiarguello)](https://github.com/jiarguello/github-readme-stats)
