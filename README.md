@@ -55,6 +55,7 @@ Gosto muito de conversar e trocar experiências, caso queira falar comigo pode m
 <p>Esse é o meu resumo de utilização do Github:</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiarguello&show_icons=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelocampos66&show_icons=true&theme=gotham)
 
 
 <p>Algumas linguagens e ferramentas que eu utilizo:</p>
