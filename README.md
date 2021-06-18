@@ -5,7 +5,7 @@
 <p>Após 10 anos de muito trabalho, decidi realizar a transição de carreira e trabalhar com o desenvolvimento de software e para isso estou contanto com a Trybe nessa jornada.</p>
 
 [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
-[Site](https://jiarguello.github.io/projects.html){:target="_blank" rel="noopener"}
+[Site](https://jiarguello.github.io/projects.html)
 
 <p>Você pode acessar meu site [go](https://jiarguello.github.io/projects.html){:target="_blank" rel="noopener"}>aqui</a> e os projetos nesse <a href="https://jiarguello.github.io/projects.html" target="_blank">link</a>.</p>
 
