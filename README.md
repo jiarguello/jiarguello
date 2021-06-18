@@ -4,7 +4,7 @@
 
 <p>Após 10 anos de muito trabalho, decidi realizar a transição de carreira e trabalhar com o desenvolvimento de software e para isso estou contanto com a Trybe nessa jornada.</p>
 
-<p>Você pode acessar meu site <a href="https://jiarguello.github.io" target="_blank">aqui</a> e os projetos nesse <a href="https://jiarguello.github.io/projects.html" target="_blank">link</a>.</p>
+<p>Você pode acessar meu site [go](https://jiarguello.github.io/projects.html){:target="_blank" rel="noopener"}>aqui</a> e os projetos nesse <a href="https://jiarguello.github.io/projects.html" target="_blank">link</a>.</p>
 
 <p>Recentemente encerrei o módulo de fundamentos do curso onde, por meio de projetos e exercícios, aprendemos os seguintes temas:</p>
 
@@ -16,17 +16,18 @@
   <li>FrameWorks - BootStrap e Bulma</li>
   <li>Integração com API</li>
   <li>Jest</li>
-</ul>
-
-<p>Atualmente estou no módulo de front-end que tem foco em React, ao decorrer deste módulo verei:</p>
-
-<ul>
   <li>React</li>
   <li>Testes automatizados com React Testing Library</li>
   <li>Metodologias ágeis</li>
   <li>Redux</li>
   <li>Context API</li>
   <li>React Hooks</li>
+</ul>
+
+<p>Atualmente estou no módulo de back-end que tem foco em React, ao decorrer deste módulo verei:</p>
+
+<ul>
+
 </ul>
 
 
