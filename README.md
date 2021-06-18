@@ -4,10 +4,9 @@
 
 <p>Após 10 anos de muito trabalho, decidi realizar a transição de carreira e trabalhar com o desenvolvimento de software e para isso estou contanto com a Trybe nessa jornada.</p>
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 [Site](https://jiarguello.github.io/projects.html)
 
-<p>Você pode acessar meu site [go](https://jiarguello.github.io/projects.html){:target="_blank" rel="noopener"}>aqui</a> e os projetos nesse <a href="https://jiarguello.github.io/projects.html" target="_blank">link</a>.</p>
+<p>Você pode acessar meu site [go](https://jiarguello.github.io/projects.html){:target="_blank" rel="noopener"}>aqui</a> e os projetos nesse <a href="https://jiarguello.github.io/projects.html" target="_blank" rel="noopener">link</a>.</p>
 
 <p>Recentemente encerrei o módulo de fundamentos do curso onde, por meio de projetos e exercícios, aprendemos os seguintes temas:</p>
 
@@ -62,3 +61,4 @@ Gosto muito de conversar e trocar experiências, caso queira falar comigo pode m
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiarguello)](https://github.com/jiarguello/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocampos66)](https://github.com/marcelocampos66/github-readme-stats)
