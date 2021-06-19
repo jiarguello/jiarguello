@@ -1,35 +1,36 @@
-<H1 align="center">Olá! Tudo bem? Prazer, meu nome é Jhonatan</H1>
+<H1 align="center">Olá! Tudo bem? Prazer, pode me chamar de Jhon</H1>
 
-<p>Sou formado em administração de empresas pela FECAP. Tenho experiência como auditor externo e sócio gerindo uma imobiliária, no momento resido em Avaré-SP.</p>
+<p>Sou estudante de desenvolvimento de software, atualmente estou no módulo de back-end da formação da Trybe.</p>
 
-<p>Após 10 anos de muito trabalho, decidi realizar a transição de carreira e trabalhar com o desenvolvimento de software e para isso estou contanto com a Trybe nessa jornada.</p>
+<p>"Talk is cheap. Show me the code" - Linus Torvalds</p>
 
-[Site](https://jiarguello.github.io/projects.html)
+<p>Se a frase do Torvalds te representa, indico consultar meu portfólio nesse <a href="https://jiarguello.github.io/projects.html">link</a>.</p>
 
-<p>Você pode acessar meu site [go](https://jiarguello.github.io/projects.html){:target="_blank" rel="noopener"}>aqui</a> e os projetos nesse <a href="https://jiarguello.github.io/projects.html" target="_blank" rel="noopener">link</a>.</p>
+<p>Mas, caso queira saber um pouco mais sobre minhas habilidades e experiências te indico dar uma olhada logo abaixo:
 
-<p>Recentemente encerrei o módulo de fundamentos do curso onde, por meio de projetos e exercícios, aprendemos os seguintes temas:</p>
+<H3>Estudos de programação e formação</H3>  
+
+<p>Conclui os módulos de fundamentos e Front-end do curso, onde tive a oportunidade de aprender as seguintes ferramentas/metodologias:</p>
 
 <ul>
   <li>Git e Github</li>
   <li>HTML5</li>
-  <li>CSS</li>
-  <li>JavaScript ES6</li>
-  <li>FrameWorks - BootStrap e Bulma</li>
+  <li>CSS - Puro e utilização de FrameWorks</li>
+  <li>JavaScript</li>
+  <li>Testes - Jest e RTL</li>
   <li>Integração com API</li>
-  <li>Jest</li>
-  <li>React</li>
-  <li>Testes automatizados com React Testing Library</li>
+  <li>React JS - Redux, Context API e React Hooks</li>
   <li>Metodologias ágeis</li>
-  <li>Redux</li>
-  <li>Context API</li>
-  <li>React Hooks</li>
 </ul>
 
 <p>Atualmente estou no módulo de back-end que tem foco em React, ao decorrer deste módulo verei:</p>
 
 <ul>
-
+  <li>My SQL - :heavy_check_mark:</li>
+  <li>MongoDB - :heavy_check_mark:</li>
+  <li>Node - :construction:</li>
+  <li>Arquitetura: SOLID e ORM</li>
+  <li>Sockets</li>
 </ul>
 
 
@@ -55,11 +56,7 @@ Gosto muito de conversar e trocar experiências, caso queira falar comigo pode m
 <p>Esse é o meu resumo de utilização do Github:</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiarguello&show_icons=true&theme=gotham)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelocampos66&show_icons=true&theme=gotham)
-
 
 <p>Algumas linguagens e ferramentas que eu utilizo:</p>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiarguello)](https://github.com/jiarguello/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocampos66)](https://github.com/marcelocampos66/github-readme-stats)
