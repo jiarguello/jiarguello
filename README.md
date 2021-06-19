@@ -2,7 +2,7 @@
 
 <p>Sou estudante de desenvolvimento de software, atualmente estou no módulo de back-end da formação da Trybe.</p>
 
-<p align="center"><i><b>"Talk is cheap. Show me the code"<b> - Linus Torvalds<i></p>
+<H3 align="center"><i><b>"Talk is cheap. Show me the code"<b> - Linus Torvalds<i></H3>
 
 <p>Se a frase do Torvalds te representa, indico consultar meu portfólio nesse <a href="https://jiarguello.github.io/projects.html">link</a>.</p>
 
