@@ -1,22 +1,34 @@
 <H1 align="center">Olá! Tudo bem? Prazer, pode me chamar de Jhon</H1>
 
-</hr>
-</br>
+<hr>
+<br>
 
 <p>Sou estudante de desenvolvimento de software, atualmente estou no módulo de back-end da formação da Trybe.</p>
 
 <H3 align="center"><i><b>"Talk is cheap. Show me the code"<b> - Linus Torvalds<i></H3>
 
+<br>
+  
+<div align="center">
+  <img src="https://media1.tenor.com/images/66797354caa854f537971565accb0ef4/tenor.gif?itemid=5257429" />
+</div>  
+
+<br>
+  
 <p>Se a frase do Torvalds te representa, indico consultar meu portfólio nesse <a href="https://jiarguello.github.io/projects.html">link</a>.</p>
 
-</hr>
-</br>
+<br>
+<hr>
+<br>
   
-<p>Abaixo explico um pouco mais sobre minhas habilidades e experiências:
+<p>Deixei logo abaixo mais algumas informações sobre minhas experiências e habilidades:
 
-</br>
+<br>
+<br>
 
-<H3>Estudos de programação e formação</H3>  
+<H3><u>Estudos de programação e formação<u></H3>
+
+<br>
 
 <p>Conclui os módulos de fundamentos e Front-end do curso, onde tive a oportunidade de aprender as seguintes ferramentas/metodologias:</p>
 
@@ -31,7 +43,9 @@
   <li>Metodologias ágeis</li>
 </ul>
 
-<p>Atualmente estou no módulo de back-end que tem foco em React, ao decorrer deste módulo verei:</p>
+<br>
+  
+<p>Atualmente estou no módulo de back-end, ao decorrer deste módulo estão inclusos:</p>
 
 <ul>
   <li>My SQL - :heavy_check_mark:</li>
@@ -40,6 +54,8 @@
   <li>Arquitetura: SOLID e ORM</li>
   <li>Sockets</li>
 </ul>
+
+<hr>
 
 <h3>Experiências anteriores</h3>
 
@@ -50,6 +66,7 @@
 
 <p>Após alguns meses de estudo e reflexão, decidi fazer a transição de carreira e trabalhar com desenvolvimento de software e para isso estou contanto com a Trybe nessa jornada.</p>
 
+<hr>
   
 <h3>Meus interesses pessoais:</h3>
 
