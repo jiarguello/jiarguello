@@ -9,7 +9,12 @@
 
 <p>Se a frase do Torvalds te representa, indico consultar meu portfólio nesse <a href="https://jiarguello.github.io/projects.html">link</a>.</p>
 
+</hr>
+</br>
+  
 <p>Abaixo explico um pouco mais sobre minhas habilidades e experiências:
+
+</br>
 
 <H3>Estudos de programação e formação</H3>  
 
