@@ -73,8 +73,7 @@
 - <b>Estudar:</b> Periodicamente escolho um assunto que me interessa e costumo me aprofundar bastante, o assunto da vez é investimentos no exterior.
 - <b>Otaku e Nerd:</b> Um pouco longe dos meus velhos tempos rs, mas ainda acompanho alguns mangás e histórias da cultura nerd.
 - <b>Viajar de Moto:</b> Tenho como grande paixão as motos custom, gosto de estudar sobre sua mecânica e principalmente pegar estrada!
-- <b>Ações Sociais:</b> Ter a oportunidade de impactar positivamente a vida das pessoas é algo que me faz bem. No momento participo de um projeto que arrecada brinquedos e doces para o dia das crianças e Natal.
-
+- <b>Ações Sociais:</b> Ter a oportunidade de impactar positivamente a vida das pessoas é algo que me faz bem. No momento participo como voluntário em uma oficina de brinquedos que arrecada e reforma brinquedos para doação.
 
 Gosto muito de conversar e trocar experiências, caso queira falar comigo pode me contatar pelo meu Linkedin ou por e-mail nos botões abaixo:
 
