@@ -6,7 +6,7 @@
 
 <p>Se a frase do Torvalds te representa, indico consultar meu portfólio nesse <a href="https://jiarguello.github.io/projects.html">link</a>.</p>
 
-<p>Mas, caso queira saber um pouco mais sobre minhas habilidades e experiências te indico dar uma olhada logo abaixo:
+<p>Abaixo explico um pouco mais sobre minhas habilidades e experiências:
 
 <H3>Estudos de programação e formação</H3>  
 
@@ -33,8 +33,17 @@
   <li>Sockets</li>
 </ul>
 
+<h3>Experiências anteriores</h3>
 
-Meus interesses pessoais:
+
+<p>Comecei a trabalhar com carteira assinada aos 15 anos, desde então já se passaram 12 anos e foram muitas experiências bacanas e aprendizados, separo como as principais as experiências obtidas nos dois anos como auditor, onde tive a oportunidade de interagir com processos de empresas de diversos setores diferentes.</p>
+
+<p>Durante esse período terminei o bacharelado em administração e assumi como sócio administrador em uma imobiliária que havia acabado de ser montada, foram quase 4 anos que parece que duraram décadas, atuei em todas as áreas da empresa, não só nas que eu já tinha conhecimento como o planejamento estratégico e financeiro, mas também no comercial e gestão de pessoas. Apesar do aprendizado e o crescimento da empresa senti que não era isso que eu gostaria de fazer para o resto da vida e por isso decidi vender minha posição ao meu sócio e repensar o que eu faria.</p>  
+
+<p>Após alguns meses de estudo e reflexão, decidi fazer a transição de carreira e trabalhar com desenvolvimento de software e para isso estou contanto com a Trybe nessa jornada.</p>
+
+  
+<h3>Meus interesses pessoais:</h3>
 
 - <b>Estudar:</b> Periodicamente escolho um assunto que me interessa e costumo me aprofundar bastante, o assunto da vez é investimentos no exterior.
 - <b>Otaku e Nerd:</b> Um pouco longe dos meus velhos tempos rs, mas ainda acompanho alguns mangás e histórias da cultura nerd.
