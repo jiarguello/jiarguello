@@ -30,7 +30,7 @@
 
 <br>
 
-<p>Conclui os módulos de fundamentos e Front-end do curso, onde tive a oportunidade de aprender as seguintes ferramentas/metodologias:</p>
+<p>Conclui os módulos de fundamentos, Front e Back-end do curso, onde tive a oportunidade de aprender as seguintes ferramentas/metodologias:</p>
 
 <ul>
   <li>Git e Github</li>
@@ -41,18 +41,25 @@
   <li>Integração com API</li>
   <li>React JS - Redux, Context API e React Hooks</li>
   <li>Metodologias ágeis</li>
+  <li>My SQL</li>
+  <li>MongoDB</li>
+  <li>Node</li>
+  <li>API RESTful</li>
+  <li>Arquitetura: SOLID e ORM</li>
+  <li>Sockets</li>
 </ul>
 
 <br>
   
-<p>Atualmente estou no módulo de back-end, ao decorrer deste módulo estão inclusos:</p>
+<p>Atualmente estou no módulo de Ciência de Dados, ao decorrer deste módulo estão inclusos:</p>
 
 <ul>
-  <li>My SQL - :heavy_check_mark:</li>
-  <li>MongoDB - :heavy_check_mark:</li>
-  <li>Node - :construction:</li>
-  <li>Arquitetura: SOLID e ORM</li>
-  <li>Sockets</li>
+  <li>Python</li>
+  <li>Programação orientada a objetos</li>
+  <li>Padrões de projeto</li>
+  <li>Redes e Raspagem de Dados</li>
+  <li>Algoritmos</li>
+  <li>Estrutura de Dados</li>
 </ul>
 
 <hr>
