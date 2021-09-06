@@ -62,6 +62,15 @@
   <li>Estrutura de Dados</li>
 </ul>
 
+<br>
+  
+<p>Além do conteúdo do curso, estou estudando:</p>
+
+<ul>
+  <li>Typescript</li>
+  <li>React Native</li>
+</ul>
+
 <hr>
 
 <h3>Experiências anteriores</h3>
