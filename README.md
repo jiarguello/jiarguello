@@ -1,75 +1,32 @@
 <H1 align="center">Olá! Tudo bem? Prazer, pode me chamar de Jhon</H1>
 
-<hr>
 <br>
 
-<p>Sou estudante de desenvolvimento de software, atualmente estou no módulo de back-end da formação da Trybe.</p>
+<p>Sou desenvolvedor Full Stack Senior com mais de 3 anos de experiência, atualmente trabalho desenvolvendo aplicações web e mobile, além de prestar consultoria, gerenciar uma equipe de desenvolvimento e ser responsável por alguns projetos.</p>
 
-<H3 align="center"><i><b>"Talk is cheap. Show me the code"<b> - Linus Torvalds<i></H3>
+<p>Ao decorrer desses anos tive a oportunidade de trabalhar com diversos tipos de projetos e produtos, em mercados dos mais diversos com experiências mais sólidas em ferramentas de gerenciamento e projetos do setor de telecomunicações, lojas e market places relacionados a cashback, e aplicações voltadas ao varejo principalmente focado em empresas de logística.</p>
 
-<br>
-  
-<div align="center">
-  <img src="https://media1.tenor.com/images/66797354caa854f537971565accb0ef4/tenor.gif?itemid=5257429" />
-</div>  
+<p>Minhas principais stacks técnicas estão relacionadas ao ecossistema Javascript:</p>
 
-<br>
-  
-<p>Se a frase do Torvalds te representa, indico consultar meu portfólio nesse <a href="https://jiarguello.github.io/projects.html">link</a>.</p>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 <br>
-<hr>
-<br>
-  
-<p>Deixei logo abaixo mais algumas informações sobre minhas experiências e habilidades:
+<p>No momento estou estudando assuntos relacionados a Segurança, Kotlin e Go.</p>
 
 <br>
-<br>
+Gosto muito de conversar e trocar experiências, caso queira falar comigo pode me contatar pelo meu Linkedin ou por e-mail nos botões abaixo:
 
-<H3><u>Estudos de programação e formação<u></H3>
-
-<br>
-
-<p>Conclui os módulos de fundamentos, Front e Back-end do curso, onde tive a oportunidade de aprender as seguintes ferramentas/metodologias:</p>
-
-<ul>
-  <li>Git e Github</li>
-  <li>HTML5</li>
-  <li>CSS - Puro e utilização de FrameWorks</li>
-  <li>JavaScript</li>
-  <li>Testes - Jest e RTL</li>
-  <li>Integração com API</li>
-  <li>React JS - Redux, Context API e React Hooks</li>
-  <li>Metodologias ágeis</li>
-  <li>My SQL</li>
-  <li>MongoDB</li>
-  <li>Node</li>
-  <li>API RESTful</li>
-  <li>Arquitetura: SOLID e ORM</li>
-  <li>Sockets</li>
-</ul>
-
-<br>
-  
-<p>Atualmente estou no módulo de Ciência de Dados, ao decorrer deste módulo estão inclusos:</p>
-
-<ul>
-  <li>Python</li>
-  <li>Programação orientada a objetos</li>
-  <li>Padrões de projeto</li>
-  <li>Redes e Raspagem de Dados</li>
-  <li>Algoritmos</li>
-  <li>Estrutura de Dados</li>
-</ul>
-
-<br>
-  
-<p>Além do conteúdo do curso, estou estudando:</p>
-
-<ul>
-  <li>Typescript</li>
-  <li>React Native</li>
-</ul>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhonatan-arguello/">
+    <img href="https://www.linkedin.com/in/jhonatan-arguello/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jhonatan.arguello@gmail.com?subject=Olá!">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <hr>
 
@@ -91,16 +48,6 @@
 - <b>Viajar de Moto:</b> Tenho como grande paixão as motos custom, gosto de estudar sobre sua mecânica e principalmente pegar estrada!
 - <b>Ações Sociais:</b> Ter a oportunidade de impactar positivamente a vida das pessoas é algo que me faz bem. No momento participo como voluntário em uma oficina de brinquedos que arrecada e reforma brinquedos para doação.
 
-Gosto muito de conversar e trocar experiências, caso queira falar comigo pode me contatar pelo meu Linkedin ou por e-mail nos botões abaixo:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jhonatan-arguello/">
-    <img href="https://www.linkedin.com/in/jhonatan-arguello/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:jhonatan.arguello@gmail.com?subject=Olá!">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 <p>Esse é o meu resumo de utilização do Github:</p>
 
